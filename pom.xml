@@ -20,7 +20,6 @@
     <description>sfg-pet-clinic</description>
     <properties>
         <java.version>1.8</java.version>
-        <start-class>me.eduardo.sfgpetclinic.SfgPetClinicApplication</start-class>
     </properties>
     <dependencies>
 
